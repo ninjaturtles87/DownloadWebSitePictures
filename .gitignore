@@ -55,3 +55,8 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/.vs/DownloadWebSitePictures/CopilotIndices/17.12.53.23981/CodeChunks.db
+/.vs
+/DownloadBirthdayPictures/.vs/DownloadBirthdayPictures
+/DownloadBirthdayPictures/.vs/DownloadPicturesFromWebSite
+/DownloadBirthdayPictures/.vs/ProjectEvaluation
